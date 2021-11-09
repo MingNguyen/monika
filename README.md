@@ -10,7 +10,7 @@ Download 2 files "monika.py" and "monika.png" to your computer, extract the winr
 
 before run: make sure you have install package "open-cv" to you computer.
 
-Run the file monika.py and then the translated version the meaning in the picture will be shown in 3 file txt.
+Run the file monika.py and then the translated version the meaning in the picture will be shown in 3 file txt: the binary, the base64 and the fully translated
 ### additional info:
 This image is taken from the game name"DokiDoki Literarute Club" and this image is one of the easter eggs of the game. It represent the mail from a character name Monika sends to us. the original file names "Monika.chr" and after change it tail, we got this image.
 ### algorythms
