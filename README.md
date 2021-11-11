@@ -45,4 +45,8 @@ So after we converting 2 times, we will have a fully letter can easily read
 
   * Because this is an quiz that the author made, so I can not explain clearly the program
   * I used a lot of generator so it losing ram and slow in speed
-  * I wrote this program when I have just learnt python not to far, so I may not have a goo 'style' in coding (comments, using tools, loops, variables name)
+  * I wrote this program when I have just learnt python not to far, so I may not have a good 'style' in coding (comments, using tools, loops, variables name)
+### reference
+(Ascii,https://vi.wikipedia.org/wiki/ASCII)
+
+(base64,https://vi.wikipedia.org/wiki/Base64)
