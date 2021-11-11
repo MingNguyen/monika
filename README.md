@@ -47,6 +47,6 @@ So after we converting 2 times, we will have a fully letter can easily read
   * I used a lot of generator so it losing ram and slow in speed
   * I wrote this program when I have just learnt python not to far, so I may not have a good 'style' in coding (comments, using tools, loops, variables name)
 ### reference
-(Ascii,https://vi.wikipedia.org/wiki/ASCII)
+(Ascii,https://en.wikipedia.org/wiki/ASCII)
 
-(base64,https://vi.wikipedia.org/wiki/Base64)
+(base64,https://en.wikipedia.org/wiki/Base64)
